@@ -1,0 +1,18 @@
+# Google + Gemini
+google-generativeai
+
+# Text-to-Speech
+gTTS
+pydub
+SpeechRecognition
+
+# Flask API
+flask
+
+# LLaMA API client
+llama-api-client
+
+# Vector DB + Embeddings
+sentence-transformers
+faiss-cpu
+numpy
