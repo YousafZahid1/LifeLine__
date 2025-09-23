@@ -28,7 +28,7 @@ chunk_embeddings = None
 
 # Configure Llama API Client
 client = LlamaAPIClient(
-    api_key="LLM|987057120068767|ledxwaPE-QxmIHY1YHTmw87qz_o",
+    api_key="API_KEY",
     base_url="https://api.llama.com/v1/",
 )
 
